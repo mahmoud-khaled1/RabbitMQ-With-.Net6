@@ -1,0 +1,17 @@
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\bin\Debug\net7.0\FormulaAirline Consummer.exe
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\bin\Debug\net7.0\FormulaAirline Consummer.deps.json
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\bin\Debug\net7.0\FormulaAirline Consummer.runtimeconfig.json
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\bin\Debug\net7.0\FormulaAirline Consummer.dll
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\bin\Debug\net7.0\FormulaAirline Consummer.pdb
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\obj\Debug\net7.0\FormulaAirline Consummer.csproj.AssemblyReference.cache
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\obj\Debug\net7.0\FormulaAirline Consummer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\obj\Debug\net7.0\FormulaAirline Consummer.AssemblyInfoInputs.cache
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\obj\Debug\net7.0\FormulaAirline Consummer.AssemblyInfo.cs
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\obj\Debug\net7.0\FormulaAirline Consummer.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\obj\Debug\net7.0\FormulaAirline Consummer.csproj.CopyComplete
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\obj\Debug\net7.0\FormulaAirline Consummer.dll
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\obj\Debug\net7.0\refint\FormulaAirline Consummer.dll
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\obj\Debug\net7.0\FormulaAirline Consummer.pdb
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\obj\Debug\net7.0\FormulaAirline Consummer.genruntimeconfig.cache
+D:\GitHub Projects\RabbitMQ-With-.Net6\FormulaAirline Consummer\FormulaAirline Consummer\FormulaAirline Consummer\obj\Debug\net7.0\ref\FormulaAirline Consummer.dll

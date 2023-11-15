@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ug28jcyYRQ/Y5+JquLuIm47rLydXyXXTUHLT+srroRh128defUR0l0pm1YXowCpHPLLdcnmtwYuuA2Lt+429lg==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub Projects\\RabbitMQ-With-.Net6\\FormulaAirline Consummer\\FormulaAirline Consummer\\FormulaAirline Consummer\\FormulaAirline Consummer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
